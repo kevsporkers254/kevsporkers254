@@ -70,5 +70,14 @@
     "desc": "Nutrient-rich and flavorful, great for frying and stew.",
     "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?auto=format&fit=crop&w=900&q=80",
     "icon": "heart-pulse"
+  },
+  {
+    "name": "Rindon Pork Hindleg",
+    "price": 0,
+    "category": "premium",
+    "badge": "New",
+    "desc": "Fresh pork hindleg cut for roasting, stews, and family meals.",
+    "img": "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=900&q=80",
+    "icon": "bone"
   }
 ]
